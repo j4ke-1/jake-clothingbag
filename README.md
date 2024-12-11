@@ -28,3 +28,7 @@
 
 - **Configurable Menu System**: 
   Choose between `qb-clothing` or `fivem-appearance` for the clothing menu integration or your own custom clothing script.
+
+  ---
+
+  ## Preview - https://www.youtube.com/watch?v=nIrKBQ6ixsc
